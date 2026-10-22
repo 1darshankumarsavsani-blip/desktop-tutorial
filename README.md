@@ -24,7 +24,7 @@
   <!-- GitHub Trophy Showcase -->
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Profile Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=1darshankumarsavsani-blip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" alt="GitHub Profile Trophies"/>
   </a>
 
 </div>
@@ -226,7 +226,7 @@ Topics:
 * Time and space complexity.
 
 **Explore my repositories:**
-https://github.com/YOUR_GITHUB_USERNAME?tab=repositories
+https://github.com/1darshankumarsavsani-blip?tab=repositories
 
 ---
 
@@ -234,13 +234,13 @@ https://github.com/YOUR_GITHUB_USERNAME?tab=repositories
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=1darshankumarsavsani-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=1darshankumarsavsani-blip&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1darshankumarsavsani-blip&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Programming Languages"/>
 
 </div>
 
@@ -250,7 +250,7 @@ https://github.com/YOUR_GITHUB_USERNAME?tab=repositories
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1darshankumarsavsani-blip&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
